@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "내마음대로 사용중인 깃헙"
+title                    : "내마음대로 사용하는 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "teruto"
